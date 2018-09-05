@@ -3,4 +3,5 @@
 
 
 Based off the ready-bot and modified exclusively for the Brotherhood Discord. Full Credit goes to BurnsCommaLucas. 
+
 [Please check out his page for more information](https://github.com/BurnsCommaLucas/ready-bot).
