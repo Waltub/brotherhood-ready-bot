@@ -1,10 +1,10 @@
 # ready-bot
 
-<a href="https://travis-ci.org/BurnsCommaLucas/ready-bot" target="_blank" src="https://travis-ci.org/BurnsCommaLucas/ready-bot.svg?branch=master"></a>
 
-A WoW style ready-check bot for [Discord](https://discordapp.com) servers. Built and deployed automatically through [Heroku](https://heroku.com), with constant integration testing through [Travis CI](https://travis-ci.org).
 
-[Click here to add this bot to your server.](https://discordapp.com/oauth2/authorize?client_id=389210640612589568&scope=bot) (You need to have server management  permissions to add the bot.)
+Based off the ready-bot and modified exclusively for the Brotherhood Discord. Full Credit goes to <a href="https://travis-ci.org/BurnsCommaLucas/ready-bot" target="_blank" src="https://travis-ci.org/BurnsCommaLucas/ready-bot.svg?branch=master"></a> for the Bot.
+
+
 
 
 ## Usage
