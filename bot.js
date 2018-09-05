@@ -56,7 +56,7 @@ CLIENT.on("message", (m) => {
 						if (check == ready.length) {
 							check = false;
 							ready = [];
-							chan.send("Ready check complete, " + checker + ". Lets go!");
+							chan.send("Ready check complete, <@&249168186904281088> Lets go!");
 						}
 					}
 					else {
