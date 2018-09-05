@@ -40,7 +40,7 @@ CLIENT.on("message", (m) => {
 				check = args[0];
 				ready = [];
 				checker = auth;
-				chan.send("@raid_boiz ready up! Type `" + con.PREFIX + con.READY_CMD + "`. Waiting for " + check + " player" + util.plural(check) + ".");
+				chan.send("@raid boiz ready up! Type `" + con.PREFIX + con.READY_CMD + "`. Waiting for " + check + " player" + util.plural(check) + ".");
 			}
 		break;
 		case (con.READY_CMD):
